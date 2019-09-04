@@ -1,2 +1,2 @@
-# -rdedess-gek-Sv-jcr-l
+# Érdekességek-Svájcról
 saját weboldal készítés gyakorlásához cikk
